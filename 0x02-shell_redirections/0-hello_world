@@ -1,2 +1,2 @@
 #!/bi/bash
-echo "Hello world" cat 0-hello_world
+echo "Hello, world"
